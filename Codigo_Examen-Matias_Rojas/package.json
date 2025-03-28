@@ -1,0 +1,12 @@
+{
+  "name": "codigo_examen-matias_rojas",
+  "version": "1.0.0",
+  "description": "Código Examen laboratorio 4 - Matías Rojas",
+  "license": "ISC",
+  "author": "Matías Rojas",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
