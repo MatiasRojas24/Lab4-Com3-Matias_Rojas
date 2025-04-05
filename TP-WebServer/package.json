@@ -1,0 +1,17 @@
+{
+  "name": "tp-webserver",
+  "version": "0.0.1",
+  "description": "Practico de Web Server",
+  "license": "ISC",
+  "author": "Matías Rojas",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "env-var": "^7.5.0",
+    "express": "^5.1.0"
+  }
+}
